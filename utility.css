@@ -1,0 +1,42 @@
+:root {
+    --main-bg-color: brown;
+}
+
+.max-width-1 {
+    max-width: 80vw;
+}
+
+.max-width-2 {
+    max-width: 60vw;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.my-2 {
+    margin-bottom: 32px;
+    margin-top: 32px;
+}
+
+.btn {
+    padding: 0px 5px;
+    padding-top: 1px;
+    font-size: 16px;
+    border: 2px solid rgb(223, 213, 238);
+    border-radius: 4px;
+    margin: 16px 10px;
+    margin-top: 8px;
+    cursor: pointer;
+}
+
+.form-input {
+    padding: 0px 5px;
+    padding-top: 1px;
+    font-size: 16px;
+    border: 2px solid rgb(223, 213, 238);
+    border-radius: 4px;
+    margin: 16px 10px;
+    margin-top: 8px;
+
+}
